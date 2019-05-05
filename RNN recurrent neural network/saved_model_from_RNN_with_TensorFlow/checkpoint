@@ -1,0 +1,2 @@
+model_checkpoint_path: "jacob_test_rnn"
+all_model_checkpoint_paths: "jacob_test_rnn"
