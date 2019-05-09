@@ -1,0 +1,2 @@
+model_checkpoint_path: "milk_model2"
+all_model_checkpoint_paths: "milk_model2"
